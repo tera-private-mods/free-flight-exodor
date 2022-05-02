@@ -1,12 +1,11 @@
 {
-    "name": "FF",
+    "name": "free-flight-exodor",
     "options": {
-        "niceName": "FF",
-        "guiName": "FF"
+        "niceName": "Free Flight Exodor",
+        "guiName": "Free Flight Exodor"
     },
     "author": "PsykoDev",
     "description": "Free Flight on Exodor",
-    "servers": ["https://raw.githubusercontent.com/PsykoDev/FF/master/"],
-    "supportUrl": "https://github.com/PsykoDev/FF/issues",
-    "version": "87.05"
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/free-flight-exodor/master/"],
+    "disableAutoUpdate": false
 }
